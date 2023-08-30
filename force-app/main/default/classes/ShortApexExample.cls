@@ -8,3 +8,5 @@ public class ShortApexExample {
     }
 }
 //this is just a basic class
+//partial commits using Copado CLI
+//CopadoCLI
