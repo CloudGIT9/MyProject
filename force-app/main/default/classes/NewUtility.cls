@@ -11,3 +11,5 @@ public class NewUtility {
    }
 }
 //this is new Utility class
+//intent to do partial commits
+//using Copado CLI
